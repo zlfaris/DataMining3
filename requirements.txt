@@ -1,5 +1,19 @@
+# Framework Web
 streamlit
+protobuf==3.20.*
+
+# Machine Learning
+scikit-learn==1.3.0
+joblib
+
+# Data Processing
 pandas
 numpy
-joblib
-scikit-learn==1.3.0
+
+# NLP Bahasa Indonesia
+Sastrawi
+
+# Visualisasi (opsional, untuk EDA/training)
+matplotlib
+seaborn
+wordcloud
